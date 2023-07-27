@@ -32,3 +32,4 @@
 
 # Dashboard: 
 https://public.tableau.com/views/ComparativeStudyofCountry_16899511164380/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+![Comparative Study Of Countries]( https://github.com/Ruchi1992-hub/Comparative_study_of_Countries/blob/main/Comparative%20Study%20of%20Countries.png?raw=true "Comparative_Study_of_Countries")
