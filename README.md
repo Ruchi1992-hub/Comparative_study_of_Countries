@@ -30,4 +30,5 @@
 
 6. Created a dashboard filter for income group to be applied for all charts with the filter action enabled in the map as well
 
-# Dashboard: https://public.tableau.com/views/ComparativeStudyofCountry_16899511164380/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+# Dashboard: 
+https://public.tableau.com/views/ComparativeStudyofCountry_16899511164380/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
